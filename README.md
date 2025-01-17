@@ -8,21 +8,25 @@
 
 ## SWOT Analysis
 - Strengths
+  
 High repeat business (returning customers) indicates strong brand loyalty.
 Food vertical is a proven revenue driver, with healthy growth in grocery.
 Chennai’s strong sales base offers a stable revenue foundation.
 
 - Weaknesses
+  
 Significant order failures (20%) tied to payment and vendor issues.
 Delays and large gaps between promised vs. actual delivery times may hurt satisfaction.
 Heavy reliance on discounts ($1.75M) risks margin erosion.
 
 - Opportunities
+  
 Expand grocery and other emerging verticals (pharmacy, electronics) with targeted marketing.
 Improve payment reliability to reduce “Online Payment” cancellations.
 Strengthen logistics to reduce late deliveries and capture more off-peak or mid-tier city demand.
 
 - Threats
+  
 Competitive pressure in the food delivery/quick-commerce space.
 Operational shortcomings (vendor response, courier unavailability) can degrade customer trust.
 Over-dependence on a small handful of top cities and verticals.
@@ -35,21 +39,26 @@ Over-dependence on a small handful of top cities and verticals.
 
 ## Actionable Recommendations
 - Tackle “Online Payment” Failures
+  
 Refine payment gateways; ensure multi-step authentication without friction.
 Offer backup payment modes at checkout (e.g., wallets, UPI, COD).
 
 - Reduce Vendor-Related Cancellations
+  
 Implement vendor SLA agreements, real-time vendor status tracking.
 Provide vendor training on prompt order acceptance and communications.
 
 - Close the Delivery Time Gap
+  
 Allocate more couriers at peak times and in high-demand zones.
 Use route optimization software and real-time tracking.
 
 - Optimize Discount Strategy
+  
 Target discounts to first-time or at-risk customers instead of blanket promotions.
 Track promotion performance (redemption rate vs. incremental revenue) to maximize ROI.
 
 - Diversify Revenue Streams
+  
 Promote grocery and pharmacy offerings through bundling or subscription models.
 Identify city-level growth opportunities; intensify marketing in mid-tier cities with growing demand.
