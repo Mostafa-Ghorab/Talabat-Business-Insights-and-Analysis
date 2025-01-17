@@ -62,3 +62,16 @@ Track promotion performance (redemption rate vs. incremental revenue) to maximiz
   
 Promote grocery and pharmacy offerings through bundling or subscription models.
 Identify city-level growth opportunities; intensify marketing in mid-tier cities with growing demand.
+
+## Power BI Dashboard
+A Power BI dashboard showcasing data insights and visualizations is included in this repository. Download the `.pbix` file to view it in **Power BI Desktop**.
+
+![image](https://github.com/user-attachments/assets/c4a38204-5982-4f30-8462-4be0d64a270c)
+![image](https://github.com/user-attachments/assets/fd9f65fe-73cc-4802-9d25-6c4945208598)
+
+
+
+### How to Use the Dashboard
+1. Download the `Dashboard.pbix` file from this repository.
+2. Open it in **Power BI Desktop** to explore the visualizations and insights.
+
