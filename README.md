@@ -15,7 +15,7 @@ Chennai’s strong sales base offers a stable revenue foundation.
 
 - Weaknesses
   
-Significant order failures (20%) tied to payment and vendor issues.
+Significant order failures (16.45%) tied to payment and vendor issues.
 Delays and large gaps between promised vs. actual delivery times may hurt satisfaction.
 Heavy reliance on discounts ($1.75M) risks margin erosion.
 
@@ -66,7 +66,8 @@ Identify city-level growth opportunities; intensify marketing in mid-tier cities
 ## Power BI Dashboard
 A Power BI dashboard showcasing data insights and visualizations is included in this repository. Download the `.pbix` file to view it in **Power BI Desktop**.
 
-![image](https://github.com/user-attachments/assets/c4a38204-5982-4f30-8462-4be0d64a270c)
+![image](https://github.com/user-attachments/assets/119598fc-abd8-4486-9ff6-022079db0032)
+
 ![image](https://github.com/user-attachments/assets/fd9f65fe-73cc-4802-9d25-6c4945208598)
 
 
