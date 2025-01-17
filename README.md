@@ -1,4 +1,4 @@
-# Talabat SQL Data Analysis
+# Talabat Business Insights and Analysis
 **By Mostafa Ghorab**  
 
 ## Executive Summary
