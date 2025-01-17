@@ -41,7 +41,7 @@ Over-dependence on a small handful of top cities and verticals.
 - Tackle “Online Payment” Failures
   
 Refine payment gateways; ensure multi-step authentication without friction.
-Offer backup payment modes at checkout (e.g., wallets, UPI, COD).
+Offer backup payment modes at checkout (e.g., wallets, COD).
 
 - Reduce Vendor-Related Cancellations
   
