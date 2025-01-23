@@ -2,6 +2,12 @@
 **By Mostafa Ghorab**  
 
 ---
+## Methodology  
+- **Data Sources:** Talabat order database (2023-2024).  
+- **Tools Used:** Power BI (visualization), SQL (data cleaning & queries).  
+- **Process:** Data extraction → cleaning → analysis → visualization → insights.
+
+---
 
 ## 📊 Executive Summary  
 
